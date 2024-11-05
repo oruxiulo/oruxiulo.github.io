@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oruxiulo.github.io/AZb/sitemap_index.txt
+Sitemap: https://oruxiulo.github.io/LAe/sitemap_index.txt
+Sitemap: https://oruxiulo.github.io/ZxD/sitemap_index.txt
+Sitemap: https://oruxiulo.github.io/uNj/sitemap_index.txt
